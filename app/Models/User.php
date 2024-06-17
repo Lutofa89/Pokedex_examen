@@ -18,6 +18,8 @@ class User extends Authenticatable
      */
 
      // test_fab
+
+     //jj
     protected $fillable = [
         'name',
         'email',
