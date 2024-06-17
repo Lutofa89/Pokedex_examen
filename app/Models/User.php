@@ -16,6 +16,8 @@ class User extends Authenticatable
      *
      * @var array<int, string>
      */
+
+     // test_fab
     protected $fillable = [
         'name',
         'email',
